@@ -2,7 +2,7 @@
 
 🎓 Computer Science student @ TU Eindhoven  
 
- Learning by building — currently exploring:  
+ Learning by building, currently exploring:  
 - Web Development (HTML/CSS/JS)
 - Java games & desktop apps  
 
